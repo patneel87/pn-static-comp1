@@ -33,3 +33,5 @@
 ![Rock](images/viking_repose_by_seb_m-dahn2ca.png)
 
 ![Guy](images/edit-photo.jpg)
+
+![Original](images/static-comp-challenge-1.jpg)
