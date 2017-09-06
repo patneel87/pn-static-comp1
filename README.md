@@ -4,4 +4,6 @@
 
 # Images
 
-![testimage] (images/thor.svg?raw=true
+![testimage](images/thor.svg?raw=true)
+
+![alt text](images/thor.svg)
