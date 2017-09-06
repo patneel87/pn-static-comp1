@@ -35,3 +35,5 @@
 ![Guy](images/edit-photo.jpg)
 
 ![Original](images/static-comp-challenge-1.jpg)
+
+![Mine](images/Screen Shot 2017-09-05 at 8.30.48 PM.png)
