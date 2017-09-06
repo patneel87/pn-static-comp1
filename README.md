@@ -30,6 +30,6 @@
 
 ![Axe](images/axe.svg)
 
-![Landscape](images/viking_repose_by_seb_m-dahn2ca.png)
+![Rock](images/viking_repose_by_seb_m-dahn2ca.png)
 
 ![Guy](images/edit-photo.jpg)
