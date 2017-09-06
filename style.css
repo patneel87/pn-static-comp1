@@ -14,9 +14,9 @@ body {
 }
 
 .right {
-	background-image: url(image.jpg);
+	background-image: url(images/edit-photo.jpg);
 	background-repeat: no-repeat;
-	background-size: 482px 798px;
+	background-size: 665px 1008px;
 	display: flex;
 	flex-wrap: wrap;
 	width: 33.4444%;
