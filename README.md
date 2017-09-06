@@ -4,6 +4,10 @@
 
 # Images
 
-![testimage](images/thor.svg?raw=true)
+![Thor](images/thor.svg?raw=true)
 
-![alt text](images/thor.svg)
+![Viking](images/viking.svg?raw=true)
+![VikingShip](images/viking-ship.svg?raw=true)
+![Skull](images/skull.svg?raw=true)
+![Shield](images/shield.svg?raw=true)
+![Sailboat](images/sailing-boat.svg?raw=true)
