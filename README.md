@@ -17,3 +17,19 @@
 ![Sailboat](images/sailing-boat.svg)
 
 ![More](images/more.svg)
+
+![Right](images/right-arrow.svg)
+
+![Quill](images/letter-quill.svg)
+
+![Left](images/left-arrow.svg)
+
+![Freya](images/freya.svg)
+
+![Brew](images/beer.svg)
+
+![Axe](images/axe.svg)
+
+![Landscape](images/viking_repose_by_seb_m-dahn2ca.png)
+
+![Guy](images/edit-photo.jpg)
