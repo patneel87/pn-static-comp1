@@ -4,16 +4,16 @@
 
 # Images
 
-![Thor](images/thor.svg?raw=true)
+![Thor](images/thor.svg)
 
-![Viking](images/viking.svg?raw=true)
+![Viking](images/viking.svg)
 
-![VikingShip](images/viking-ship.svg?raw=true)
+![VikingShip](images/viking-ship.svg)
 
-![Skull](images/skull.svg?raw=true)
+![Skull](images/skull.svg)
 
-![Shield](images/shield.svg?raw=true)
+![Shield](images/shield.svg)
 
-![Sailboat](images/sailing-boat.svg?raw=true)
+![Sailboat](images/sailing-boat.svg)
 
 ![More](images/more.svg)
