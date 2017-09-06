@@ -4,4 +4,4 @@
 
 # Images
 
-![Thor] (static-comp1/thor.svg)
+![testimage] (images/thor.svg?raw=true);
